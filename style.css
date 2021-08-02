@@ -1,0 +1,135 @@
+*{
+    background-color: rgb(233, 250, 247);
+}
+.new-font{
+    font-family: 'Roboto', sans-serif;
+}
+.top-pic{
+    background-image: url("1.png");
+    /* width: 40px; */
+    background-repeat: no-repeat;
+}
+#main-topic{
+    background-color: white;
+    padding-left: 15 px;
+    margin-left: 15px;
+    font-family: 'Cormorant Garamond', serif;
+}
+#req{
+    background-color: white;
+    padding-left: 15px;
+}
+#req-fields{
+    color: red;
+    background-color: white;
+    padding-left: 15px
+}
+.first{
+    background-color: white;
+    border-top: 9px rgb(41, 131, 41) solid;
+    border-bottom: 5px white solid;
+    border-radius: 5px;
+    width: 800px;
+    padding: 15px white;
+    margin: 10px white;
+}
+#topic-div{
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.second{
+    background-color: white;
+    border-top: 9px white solid;
+    border-bottom: 5px white solid;
+    border-radius: 5px;
+    width: 800px;
+    /* padding: 15px white; */
+    /* margin: 10px white; */
+}
+#topic-2{
+    background-color: white;
+    padding-left: 15px;
+    font-size: 25px;
+}
+#username{
+    /* color: white; */
+    background-color: white;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border: 0px;
+    border-bottom: 1px grey;
+    font-size: 15px;
+}
+.third{
+    background-color: white;
+    border-top: 9px white solid;
+    border-bottom: 5px white solid;
+    border-radius: 5px;
+    width: 800px;
+}
+#topic-3{
+    background-color: white;
+    padding-left: 15px;
+    font-size: 25px;
+}
+#usermail{
+    /* color: white; */
+    background-color: white;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border: 0px;
+    font-size: 15px;
+}
+.fourth{
+    background-color: white;
+    border-top: 9px white solid;
+    border-bottom: 5px white solid;
+    border-radius: 5px;
+    width: 800px;
+}
+#topic-4{
+    background-color: white;
+    padding-left: 15px;
+    font-size: 25px;
+}
+#roll{
+    background-color: white;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border: 0px;
+    font-size: 15px;
+}
+.fifth{
+    background-color: white;
+    border-top: 9px white solid;
+    border-bottom: 5px white solid;
+    border-radius: 5px;
+    width: 800px;
+}
+#topic-5{
+    background-color: white;
+    padding-left: 15px;
+    font-size: 25px;
+}
+#answer{
+    background-color: white;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border: 0px;
+    font-size: 15px;
+}
+#submitbtn{
+    color: white;
+    background-color: rgb(6, 231, 36);
+    border: 3px rgb(6, 231, 36);
+    border-radius: 4px;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    font-family: 'Cormorant Garamond', serif;
+}
+#inst1{
+    color: grey;
+    font-size: 15px;
+}
